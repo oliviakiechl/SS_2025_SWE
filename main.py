@@ -66,3 +66,4 @@ if __name__ == "__main__":
      s2 = HR_Sensor("2345")
      print(s2.id)
      s2.calc_hrv()
+     print(hello world)
